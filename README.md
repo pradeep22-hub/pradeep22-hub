@@ -27,7 +27,7 @@
 
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeep22-hub&theme=github_dark" alt="GitHub stats" /></p>
 
-<p><img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub streak" /></p>
+<p><img src="https://streak-stats.demolab.com?user=pradeep22-hub&theme=dark&hide_border=true" alt="GitHub streak" /></p>
 
 ## 🔝 Top Languages
 
