@@ -9,11 +9,11 @@
 
 ⏳ What I am proficient in so far....
 
-<p><img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,sass,mongodb,express,python,figma,postman,vite&perline=12" alt="Proficient skills" /></p>
+<p><img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,mongodb,express,python,postman,vite&perline=12" alt="Proficient skills" /></p>
 
 📚 What I am working on mastering....
 
-<p><img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,firebase,redis,prisma,postgres&perline=12" alt="Skills being mastered" /></p>
+<p><img src="https://skillicons.dev/icons?i=nextjs,ts,redis,prisma,postgres&perline=12" alt="Skills being mastered" /></p>
 
 ℹ️ What I've experimented with once....
 
@@ -21,7 +21,7 @@
 
 ✔️ What I rely on in my daily routine....
 
-<p><img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,npm,linux,powershell,notion&perline=12" alt="Daily tools" /></p>
+<p><img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,npm,powershell,notion&perline=12" alt="Daily tools" /></p>
 
 ## 📊 GitHub Stats:
 
@@ -31,4 +31,4 @@
 
 ## 🔝 Top Languages
 
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" alt="Top languages by repository" /></p>
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeep22-hub&theme=github_dark" alt="Top languages by repository" /></p>
