@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pradeep Adhikari</h1>
+<h3 align="center">A FULL STACK DEVELOPER from Nepal</h3>
 
-<!--
-**pradeep22-hub/pradeep22-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm currently learning **Next.js, TypeScript**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind CSS, Sass**
+- 📫 How to reach me: **info22pradeep@gmail.com**
 
-Here are some ideas to get you started:
+## 💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏳ What I am proficient in so far....
+
+<p><img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,sass,mongodb,express,python,figma,postman,vite&perline=12" alt="Proficient skills" /></p>
+
+📚 What I am working on mastering....
+
+<p><img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,firebase,redis,prisma,postgres&perline=12" alt="Skills being mastered" /></p>
+
+ℹ️ What I've experimented with once....
+
+<p><img src="https://skillicons.dev/icons?i=django,flutter,laravel,vue,wordpress,ps&perline=12" alt="Experimented with" /></p>
+
+✔️ What I rely on in my daily routine....
+
+<p><img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,npm,linux,powershell,notion&perline=12" alt="Daily tools" /></p>
+
+## 📊 GitHub Stats:
+
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark" alt="GitHub stats" /></p>
+
+<p><img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub streak" /></p>
+
+## 🔝 Top Languages
+
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" alt="Top languages by repository" /></p>
