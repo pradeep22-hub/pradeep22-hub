@@ -2,7 +2,7 @@
 <h3 align="center">A FULL STACK DEVELOPER from Nepal</h3>
 
 - 🌱 I'm currently learning **Next.js, TypeScript**
-- 💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind CSS, Sass**
+- 💬 Ask me about **React, JavaScript, HTML, CSS, Tailwind CSS**
 - 📫 How to reach me: **info22pradeep@gmail.com**
 
 ## 💻 Tech Stack:
